@@ -20,8 +20,9 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: liuwx2019@mail.sustech.edu.cn, weixuan.leo@gmail.com
-phone: +86 15918714139
+email: liuwx2019@mail.sustech.edu.cn
+email: weixuan.leo@gmail.com
+phone: (+86) 15918714139
 address:
   street: 1088 Xueyuan Avenue
   city: Shenzhen
@@ -32,7 +33,7 @@ address:
 coordinates:
   latitude: '113.99986'
   longitude: '22.598965'
-directions: Enter South Tower of College of Engineering and take the stairs to Office 831 on Floor 8
+directions: Office 831, South Tower of College of Engineering
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
