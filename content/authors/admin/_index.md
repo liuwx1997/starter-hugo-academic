@@ -64,7 +64,7 @@ social:
   link: https://orcid.org/0000-0002-8079-1089
 - icon: weixin
   icon_pack: fab
-  link: Xuan_9754
+  link: https://u.wechat.com/MA_QoGpc9UqTxqOOjADZun4
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 

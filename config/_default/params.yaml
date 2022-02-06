@@ -20,8 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: liuwx2019@mail.sustech.edu.cn
-email: weixuan.leo@gmail.com
+email: liuwx2019@mail.sustech.edu.cn; weixuan.leo@gmail.com
 phone: (+86) 15918714139
 address:
   street: 1088 Xueyuan Avenue
@@ -47,14 +46,14 @@ contact_links:
     icon_pack: fab
     name: Skype Me
     link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+  #- icon: keybase
+  #  icon_pack: fab
+  #  name: Chat on Keybase
+  #  link: 'https://keybase.io/'
+  #- icon: comments
+  #  icon_pack: fas
+  #  name: Discuss on Forum
+  #  link: 'https://discourse.gohugo.io'
 
 # Site header
 
